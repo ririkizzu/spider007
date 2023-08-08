@@ -1,0 +1,10 @@
+Server:
+  HttpPort: 80
+  ReadTimeout: 60
+  WriteTimeout: 60
+Database:
+  DBType: mysql
+  User: root
+  Password:
+  Host: 127.0.0.1:3306
+  DBName: d_spider007
